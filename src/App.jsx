@@ -585,7 +585,7 @@ function FinalScreen({ onRestart }) {
       alignItems: "center", justifyContent: "center",
       padding: "2rem", textAlign: "center",
       animation: "screenIn 0.6s ease",
-      position: "relative", overflow: "hidden",
+      position: "relative", overflowX: "hidden", minHeight: "100vh"
     }}>
       {/* Confetti rain */}
       <div style={{ position: "fixed", inset: 0, pointerEvents: "none", zIndex: 0, overflow: "hidden" }}>
@@ -735,7 +735,7 @@ export default function App() {
       minHeight: "100vh",
       background: "#0d001a",
       color: "white",
-      overflow: "hidden",
+      overflowX: "hidden",
       position: "relative",
     }}>
       <CRTFlicker />

@@ -656,7 +656,7 @@ function FinalScreen({ onRestart }) {
           </p>
 
           <p style={{ fontFamily: "'Georgia', serif", fontSize: "clamp(13px, 2.2vw, 16px)", color: "rgba(255,255,255,0.7)", lineHeight: 1.7, marginBottom: "1rem", fontStyle: "italic" }}>
-            To others, you might come off as a little strict or serious… but I’ve been lucky enough to see the real you — someone kind, genuine, and incredibly supportive. And honestly, that’s what makes you so special to me.
+            To others, you might come off as a little strict or serious… but I’ve been lucky enough to see the real you someone kind, genuine, and incredibly supportive. And honestly, that’s what makes you so special to me.
           </p>
 
           <p style={{ fontFamily: "'Georgia', serif", fontSize: "clamp(13px, 2.2vw, 16px)", color: "rgba(255,255,255,0.7)", lineHeight: 1.7, marginBottom: "1rem", fontStyle: "italic" }}>

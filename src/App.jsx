@@ -651,28 +651,28 @@ function FinalScreen({ onRestart }) {
             margin: "0 auto 1.5rem",
           }} />
 
-          <p style={{
-            fontFamily: "'Georgia', serif",
-            fontSize: "clamp(14px, 2.5vw, 17px)",
-            color: "rgba(255,255,255,0.7)",
-            lineHeight: 1.8,
-            marginBottom: "1.25rem",
-            fontStyle: "italic",
-          }}>
-            You're famously khadus, but the sweetest person to me,<br />
-            and I'm blessed to have you in my life.
+          <p style={{ fontFamily: "'Georgia', serif", fontSize: "clamp(13px, 2.2vw, 16px)", color: "rgba(255,255,255,0.7)", lineHeight: 1.7, marginBottom: "1rem", fontStyle: "italic" }}>
+            Happy Birthday to someone who is not just my best friend, but also a mentor I truly admire 🎉✨
           </p>
 
-          <p style={{
-            fontFamily: "'Georgia', serif",
-            fontSize: "clamp(14px, 2.5vw, 17px)",
-            color: "rgba(255,255,255,0.7)",
-            lineHeight: 1.8,
-            marginBottom: "2rem",
-            fontStyle: "italic",
-          }}>
-            Hope your birthday is as loud, fun,<br />
-            and chaotic as you secretly want it to be. 🎉
+          <p style={{ fontFamily: "'Georgia', serif", fontSize: "clamp(13px, 2.2vw, 16px)", color: "rgba(255,255,255,0.7)", lineHeight: 1.7, marginBottom: "1rem", fontStyle: "italic" }}>
+            To others, you might come off as a little strict or serious… but I’ve been lucky enough to see the real you — someone kind, genuine, and incredibly supportive. And honestly, that’s what makes you so special to me.
+          </p>
+
+          <p style={{ fontFamily: "'Georgia', serif", fontSize: "clamp(13px, 2.2vw, 16px)", color: "rgba(255,255,255,0.7)", lineHeight: 1.7, marginBottom: "1rem", fontStyle: "italic" }}>
+            Your dedication towards your goals, your discipline, and the way you carry yourself inspires me more than you probably realize. You don’t just teach lessons… you set an example.
+          </p>
+
+          <p style={{ fontFamily: "'Georgia', serif", fontSize: "clamp(13px, 2.2vw, 16px)", color: "rgba(255,255,255,0.7)", lineHeight: 1.7, marginBottom: "1rem", fontStyle: "italic" }}>
+            I’m grateful for every piece of advice, every laugh, and every moment we’ve shared. No matter how “grumpy” you act with the world, I know the amazing person you are behind it 😄
+          </p>
+
+          <p style={{ fontFamily: "'Georgia', serif", fontSize: "clamp(13px, 2.2vw, 16px)", color: "rgba(255,255,255,0.7)", lineHeight: 1.7, marginBottom: "1rem", fontStyle: "italic" }}>
+            Wishing you a year full of success, happiness, and everything you’ve been working so hard for. You truly deserve it.
+          </p>
+
+          <p style={{ fontFamily: "'Georgia', serif", fontSize: "clamp(13px, 2.2vw, 16px)", color: "rgba(255,255,255,0.7)", lineHeight: 1.7, marginBottom: "1.5rem", fontStyle: "italic" }}>
+            And don’t worry… I’ll still be the one who annoys you the most 😌
           </p>
 
           <HeartGame />
@@ -685,7 +685,7 @@ function FinalScreen({ onRestart }) {
             letterSpacing: 1,
             marginBottom: "2.5rem",
           }}>
-            Happy Birthday! 🎂
+            Happy Birthday once again 🎂🔥
           </div>
 
           <button
